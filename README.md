@@ -12,7 +12,7 @@ A retro-themed clone of [2048](https://play2048.co), the single-player sliding t
 ```bash
 java -version
 ```
-- Download [**Retro2048.jar**](Retro2048.jar)
+- Download [**Retro2048.jar**](dist/Retro2048.jar)
 - Run the JAR
     - Run from the terminal:
     ```bash
